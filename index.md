@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to csci 2200 Fall 2021!
 
 Hello world!
 
