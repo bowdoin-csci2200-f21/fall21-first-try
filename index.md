@@ -1,4 +1,4 @@
-## Welcome to csci 2200 Fall 2021!
+## csci 2200 fall 2021
 
 Hello world!
 
