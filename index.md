@@ -1,7 +1,9 @@
-## csci 2200 fall 2021
+
 
 Design and Analysis of Algorithms (csci2200)
+
 Fall 2021
+
 Bowdoin College 
 
 ```You can use the [editor on GitHub](https://github.com/csci-2200-algorithms/fall21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
