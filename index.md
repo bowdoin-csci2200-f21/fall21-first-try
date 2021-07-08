@@ -12,6 +12,8 @@
 Hello world!
 
 
+Welcome to Algorithms, Fall 2021. 
+
 ------------
 You can use the [editor on GitHub](https://github.com/csci-2200-algorithms/fall21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
