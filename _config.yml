@@ -22,8 +22,8 @@ title: CSCI 2200 | Algorithms, Bowdoin College, Fall 2021
 email: ltoma@bowdoin.edu
 description: >- # this means to ignore newlines until "baseurl:"
   bla bla bla 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bowdoin-csci2200.github.io/fall21/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "fall21/" # the subpath of your site, e.g. /blog
+url: "https://bowdoin-csci2200.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  lauratoma
 
