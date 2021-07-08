@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 
 title:  CSCI 2200 | Algorithms
 
@@ -7,7 +6,12 @@ email: ltoma@bowdoin.edu
 description: >- # this means to ignore newlines until "baseurl:"
  Fall 21, Bowdoin College 
 
+url: "https://bowdoin-csci2200.github.io/"
+baseurl: "fall21/"
 github_username:  lauratoma
+
+theme: jekyll-theme-minimal
+
 
 plugins:
   - jekyll-feed
